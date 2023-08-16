@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+GbaRkfSvpn37BK4qdk9pRY4mMXM0ZPNyPnPkIHCybMHPLetYoT9Ns1F/ORXObuN3fXGUaChuSxfIAXFS7rb/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\Odafe\\Devops\\Kloan\\Kloan\\Kloan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
